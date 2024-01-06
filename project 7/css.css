@@ -1,0 +1,17 @@
+*{font-family:helvetica;}
+h1,h2,h3,h4,h5,h6{font-family:"Trebuchet Ms";}
+.nav-link{color:white;}
+.nav-link:hover{color:rgba(0, 255, 247, 0.993);  transition:all 0.5s ease;}
+.active{}
+
+
+#col1{background-image:url(images/pexels-goochie-poochie-grooming-3361739.jpg); background-position:100% 20%; background-attachment: fixed; background-repeat:no-repeat; background-size:cover;}
+
+#col1:hover{background-image:url(images/p1\ \(2\).jpg); background-position:100% 46%; background-attachment: fixed; background-repeat:no-repeat; background-size:cover; transition:1s all ease;}
+*{box-sizing:border-box;}
+
+.btbg:hover{background-color:rgba(133, 5, 188, 0.993)}
+.pg{color:black; line-height:2em; backdrop-filter:blur(10px); }
+
+#ic{height:30rem; background-image:url(images/dgfood.jpg); background-size:cover; background-attachment:fixed; } 
+
